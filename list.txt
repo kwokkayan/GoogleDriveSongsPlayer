@@ -56,4 +56,5 @@
         "name":"明日ハレの日ケの昨日",
         "address":"https://docs.google.com/uc?export=download&id=1vMhBHF9gefBCLAUHWYxS-9x61yRDqu45%22%3E"
       }
+   ]
 }
